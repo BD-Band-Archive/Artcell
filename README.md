@@ -24,7 +24,7 @@
 6. [Agontuk 2 (আগন্তুক ২) (2004)](#6-agontuk-2-2004)
 7. [Din Bodol (দিন বদল) (2004)](#7-din-bodol-2004)
 8. [Agontuk 3 (আগন্তুক ৩) (2005)](#8-agontuk-3-2005)
-9. [Live Now (লাইভ নাউ) (2007)](#9-live-now-2007)
+9. [Live Now (লাইভ নাও) (2007)](#9-live-now-2007)
 
 ---
 
@@ -198,7 +198,7 @@ Marking Artcell's monumental return 17 years after *Oniket Prantor*, *Otritio* (
 ---
 
 <a id="9-live-now-2007"></a>
-## 9. [Live Now (লাইভ নাউ) (2007)](https://github.com/GhostDog45/Mixed-Albums/tree/master/Live%20Now%20%282007%29)
+## 9. [Live Now (লাইভ নাও) (2007)](https://github.com/GhostDog45/Mixed-Albums/tree/master/Live%20Now%20%282007%29)
 
 ### 🎵 Tracklist (One-Tap Download)
 
