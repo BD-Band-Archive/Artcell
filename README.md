@@ -18,6 +18,9 @@
 2. [Oniket Prantor (অনিকেত প্রান্তর) (2006)](#2-oniket-prantor-2006)
 3. [Otritio (অতৃতীয়) (2023)](#3-otritio-2023)
 
+### 💿 Mixed Albums
+4. [Din Bodol (দিন বদল) (2004)](#4-din-bodol-2004)
+
 ---
 
 <a id="1-onno-shomoy-2002"></a>
@@ -138,6 +141,15 @@ Marking Artcell's monumental return 17 years after *Oniket Prantor*, *Otritio* (
 | <img src="Otritio/Album%20Cover/Limited%20Edition%20Box%20-%203.jpg" width="300" alt="15. Limited Edition Box - 3" /><br><sub><b>15. Limited Edition Box - 3</b></sub> | <img src="Otritio/Album%20Cover/Limited%20Edition%20Box%20-%204.jpg" width="300" alt="16. Limited Edition Box - 4" /><br><sub><b>16. Limited Edition Box - 4</b></sub> |
 | <img src="Otritio/Album%20Cover/Limited%20Edition%20Box%20-%205.jpg" width="300" alt="17. Limited Edition Box - 5" /><br><sub><b>17. Limited Edition Box - 5</b></sub> | <img src="Otritio/Album%20Cover/Limited%20Edition%20Box.jpg" width="300" alt="18. Limited Edition Box" /><br><sub><b>18. Limited Edition Box</b></sub> |
 | <img src="Otritio/Album%20Cover/Logo.jpg" width="300" alt="19. Logo" /><br><sub><b>19. Logo</b></sub> | <img src="Otritio/Album%20Cover/Sticker.jpg" width="300" alt="20. Sticker" /><br><sub><b>20. Sticker</b></sub> |
+
+---
+
+<a id="4-din-bodol-2004"></a>
+## 4. [Din Bodol (দিন বদল) (2004)](https://github.com/GhostDog45/Mixed-Albums/tree/master/Din%20Bodol%20%282004%29)
+
+### 🎵 Tracklist (One-Tap Download)
+
+- [**Ashirbad (Abc)**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Din%20Bodol%20%282004%29/01.%20Ashirbad%20%28Abc%29.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Din%20Bodol%20%282004%29/01.%20Ashirbad%20%28Abc%29.flac?download=true)
 
 ---
 
