@@ -152,7 +152,7 @@ Marking Artcell's monumental return 17 years after *Oniket Prantor*, *Otritio* (
 ---
 
 <a id="4-onushilon-2002"></a>
-## 4. [Onushilon (অনুশীলন) (2002)](https://github.com/GhostDog45/Mixed-Albums/tree/master/Onushilon%20%282002%29)
+## 4. [Onushilon (অনুশীলন) (2002)](https://github.com/GhostDog45/Mixed-Albums#2-onushilon-2002)
 
 ### 🎵 Tracklist (One-Tap Download)
 
@@ -162,7 +162,7 @@ Marking Artcell's monumental return 17 years after *Oniket Prantor*, *Otritio* (
 ---
 
 <a id="5-agontuk-1-2003"></a>
-## 5. [Agontuk 1 (আগন্তুক ১) (2003)](https://github.com/GhostDog45/Mixed-Albums/tree/master/Agontuk%201%20%282003%29)
+## 5. [Agontuk 1 (আগন্তুক ১) (2003)](https://github.com/GhostDog45/Mixed-Albums#4-agontuk-1-2003)
 
 ### 🎵 Tracklist (One-Tap Download)
 
@@ -171,7 +171,7 @@ Marking Artcell's monumental return 17 years after *Oniket Prantor*, *Otritio* (
 ---
 
 <a id="6-agontuk-2-2004"></a>
-## 6. [Agontuk 2 (আগন্তুক ২) (2004)](https://github.com/GhostDog45/Mixed-Albums/tree/master/Agontuk%202%20%282004%29)
+## 6. [Agontuk 2 (আগন্তুক ২) (2004)](https://github.com/GhostDog45/Mixed-Albums#5-agontuk-2-2004)
 
 ### 🎵 Tracklist (One-Tap Download)
 
@@ -180,7 +180,7 @@ Marking Artcell's monumental return 17 years after *Oniket Prantor*, *Otritio* (
 ---
 
 <a id="7-din-bodol-2004"></a>
-## 7. [Din Bodol (দিন বদল) (2004)](https://github.com/GhostDog45/Mixed-Albums/tree/master/Din%20Bodol%20%282004%29)
+## 7. [Din Bodol (দিন বদল) (2004)](https://github.com/GhostDog45/Mixed-Albums#6-din-bodol-2004)
 
 ### 🎵 Tracklist (One-Tap Download)
 
@@ -189,7 +189,7 @@ Marking Artcell's monumental return 17 years after *Oniket Prantor*, *Otritio* (
 ---
 
 <a id="8-agontuk-3-2005"></a>
-## 8. [Agontuk 3 (আগন্তুক ৩) (2005)](https://github.com/GhostDog45/Mixed-Albums/tree/master/Agontuk%203%20%282005%29)
+## 8. [Agontuk 3 (আগন্তুক ৩) (2005)](https://github.com/GhostDog45/Mixed-Albums#7-agontuk-3-2005)
 
 ### 🎵 Tracklist (One-Tap Download)
 
@@ -198,7 +198,7 @@ Marking Artcell's monumental return 17 years after *Oniket Prantor*, *Otritio* (
 ---
 
 <a id="9-live-now-2007"></a>
-## 9. [Live Now (লাইভ নাও) (2007)](https://github.com/GhostDog45/Mixed-Albums/tree/master/Live%20Now%20%282007%29)
+## 9. [Live Now (লাইভ নাও) (2007)](https://github.com/GhostDog45/Mixed-Albums#11-live-now-2007)
 
 ### 🎵 Tracklist (One-Tap Download)
 
