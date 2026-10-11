@@ -149,7 +149,7 @@ Marking Artcell's monumental return 17 years after *Oniket Prantor*, *Otritio* (
 
 ### 🎵 Tracklist (One-Tap Download)
 
-- [**Ashirbad (Abc)**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Din%20Bodol%20%282004%29/01.%20Ashirbad%20%28Abc%29.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Din%20Bodol%20%282004%29/01.%20Ashirbad%20%28Abc%29.flac?download=true)
+- [**Artcell, Black & Cryptic Fate - Ashirbad (Abc)**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Din%20Bodol%20%282004%29/01.%20Ashirbad%20%28Abc%29.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Din%20Bodol%20%282004%29/01.%20Ashirbad%20%28Abc%29.flac?download=true)
 
 ---
 
