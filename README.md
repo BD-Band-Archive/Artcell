@@ -25,6 +25,7 @@
 7. [Din Bodol (দিন বদল) (2004)](#7-din-bodol-2004)
 8. [Agontuk 3 (আগন্তুক ৩) (2005)](#8-agontuk-3-2005)
 9. [Live Now (লাইভ নাও) (2007)](#9-live-now-2007)
+10. [Rock 303 (রক ৩০৩) (2009)](#10-rock-303-2009)
 
 ---
 
@@ -129,7 +130,7 @@ Marking Artcell's monumental return 17 years after *Oniket Prantor*, *Otritio* (
 - [**Artcell - Biprotip**](https://media.githubusercontent.com/media/GhostDog45/Artcell/master/Otritio/Artcell%20-%20Biprotip.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Artcell/master/Otritio/Artcell%20-%20Biprotip.flac?download=true)
 - [**Artcell - Oshomapto Shantona**](https://media.githubusercontent.com/media/GhostDog45/Artcell/master/Otritio/Artcell%20-%20Oshomapto%20Shantona.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Artcell/master/Otritio/Artcell%20-%20Oshomapto%20Shantona.flac?download=true)
 - [**Artcell - Otritio**](https://media.githubusercontent.com/media/GhostDog45/Artcell/master/Otritio/Artcell%20-%20Otritio.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Artcell/master/Otritio/Artcell%20-%20Otritio.flac?download=true)
-- [**Artcell - Protiti - Instrumental**](https://media.githubusercontent.com/media/GhostDog45/Artcell/master/Otritio/Artcell%20-%20Protiti%20-%20Instrumental.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Artcell/master/Otritio/Artcell%20-%20Protiti%20-%20Instrumental.flac?download=true)
+- [**Artcell - Protiti (Instrumental)**](https://media.githubusercontent.com/media/GhostDog45/Artcell/master/Otritio/Artcell%20-%20Protiti%20%28Instrumental%29.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Artcell/master/Otritio/Artcell%20-%20Protiti%20%28Instrumental%29.flac?download=true)
 - [**Artcell - Smritir Ayna**](https://media.githubusercontent.com/media/GhostDog45/Artcell/master/Otritio/Artcell%20-%20Smritir%20Ayna.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Artcell/master/Otritio/Artcell%20-%20Smritir%20Ayna.flac?download=true)
 
 ### 🖼️ Album Artwork
