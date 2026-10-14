@@ -25,7 +25,9 @@
 7. [Din Bodol (দিন বদল) (2004)](#7-din-bodol-2004)
 8. [Agontuk 3 (আগন্তুক ৩) (2005)](#8-agontuk-3-2005)
 9. [Live Now (লাইভ নাও) (2007)](#9-live-now-2007)
-10. [Rock 303 (রক ৩০৩) (2009)](#10-rock-303-2009)
+
+### 🎵 Singles & Standalone Releases
+10. [Singles & Standalone Releases](#10-singles)
 
 ---
 
@@ -204,6 +206,19 @@ Marking Artcell's monumental return 17 years after *Oniket Prantor*, *Otritio* (
 ### 🎵 Tracklist (One-Tap Download)
 
 - [**Artcell - Ei Bidaye**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Live%20Now%20%282007%29/01%20Ei%20Bidaye.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Live%20Now%20%282007%29/01%20Ei%20Bidaye.flac?download=true)
+
+---
+
+<a id="10-singles"></a>
+## 10. Singles & Standalone Releases
+
+<p align="center">
+  <img src="Singles/Album%20Cover/folder.jpg" width="300" alt="Artcell Singles Cover" />
+</p>
+
+### 🎵 Tracklist (One-Tap Download)
+
+- [**Artcell - Biday Kibhabe Janai**](https://media.githubusercontent.com/media/GhostDog45/Artcell/master/Singles/Biday%20Kibhabe%20Janai.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Artcell/master/Singles/Biday%20Kibhabe%20Janai.flac?download=true)
 
 ---
 
