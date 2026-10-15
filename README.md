@@ -231,7 +231,7 @@ Marking Artcell's monumental return 17 years after *Oniket Prantor*, *Otritio* (
 ---
 
 <a id="11-rock-303-2009"></a>
-## 11. [Rock 303 (2009)](https://github.com/GhostDog45/Mixed-Albums/tree/master/Rock%20303%20%282009%29)
+## 11. [Rock 303 (2009)](https://github.com/GhostDog45/Mixed-Albums#rock-303-2009)
 
 ### 🎵 Tracklist (One-Tap Download)
 
@@ -240,7 +240,7 @@ Marking Artcell's monumental return 17 years after *Oniket Prantor*, *Otritio* (
 ---
 
 <a id="12-charpotro-2001"></a>
-## 12. [Charpotro (2001)](https://github.com/GhostDog45/Mixed-Albums/tree/master/Charpotro%20%282001%29)
+## 12. [Charpotro (2001)](https://github.com/GhostDog45/Mixed-Albums#charpotro-2001)
 
 ### 🎵 Tracklist (One-Tap Download)
 
@@ -249,7 +249,7 @@ Marking Artcell's monumental return 17 years after *Oniket Prantor*, *Otritio* (
 ---
 
 <a id="13-lokayot-2004"></a>
-## 13. [Lokayot (2004)](https://github.com/GhostDog45/Mixed-Albums/tree/master/Lokayot%20%282004%29)
+## 13. [Lokayot (2004)](https://github.com/GhostDog45/Mixed-Albums#lokayot-2004)
 
 ### 🎵 Tracklist (One-Tap Download)
 
@@ -258,7 +258,7 @@ Marking Artcell's monumental return 17 years after *Oniket Prantor*, *Otritio* (
 ---
 
 <a id="14-projonmo-2002"></a>
-## 14. [Projonmo (2002)](https://github.com/GhostDog45/Mixed-Albums/tree/master/Projonmo%20%282002%29)
+## 14. [Projonmo (2002)](https://github.com/GhostDog45/Mixed-Albums#projonmo-2002)
 
 ### 🎵 Tracklist (One-Tap Download)
 
@@ -267,7 +267,7 @@ Marking Artcell's monumental return 17 years after *Oniket Prantor*, *Otritio* (
 ---
 
 <a id="15-riotous-14-2015"></a>
-## 15. [Riotous 14 (2015)](https://github.com/GhostDog45/Mixed-Albums/tree/master/Riotous%2014%20%282015%29)
+## 15. [Riotous 14 (2015)](https://github.com/GhostDog45/Mixed-Albums#riotous-14-2015)
 
 ### 🎵 Tracklist (One-Tap Download)
 
