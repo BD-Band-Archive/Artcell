@@ -1,6 +1,6 @@
 # 🎸 Artcell
 
-[![← Back to BD Band Music](https://img.shields.io/badge/←%20Back%20to-BD%20Band%20Music-6f42c1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GhostDog45/BD-Band-Music) [![Audio Format - FLAC Lossless](https://img.shields.io/badge/Audio%20Format-FLAC%20Lossless-007ec6?style=for-the-badge&logo=flac&logoColor=white)](#) [![Git LFS - Enabled](https://img.shields.io/badge/Git%20LFS-Enabled-f05032?style=for-the-badge&logo=git-lfs&logoColor=white)](#) [![Direct One-Tap Downloads](https://img.shields.io/badge/Direct%20Downloads-One--Tap%20FLAC-2ea44f?style=for-the-badge&logo=github&logoColor=white)](#)
+[![← Back to BD Band Music](https://img.shields.io/badge/←%20Back%20to-BD%20Band%20Music-6f42c1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BD-Band-Archive/BD-Band-Music) [![Audio Format - FLAC Lossless](https://img.shields.io/badge/Audio%20Format-FLAC%20Lossless-007ec6?style=for-the-badge&logo=flac&logoColor=white)](#) [![Git LFS - Enabled](https://img.shields.io/badge/Git%20LFS-Enabled-f05032?style=for-the-badge&logo=git-lfs&logoColor=white)](#) [![Direct One-Tap Downloads](https://img.shields.io/badge/Direct%20Downloads-One--Tap%20FLAC-2ea44f?style=for-the-badge&logo=github&logoColor=white)](#)
 
 <p align="center">
   <img src="assets/band_cover.jpg" alt="Artcell Band" width="750" />
@@ -53,16 +53,16 @@ Released in 2002 under G-Series, *Onno Shomoy* ("Another Time") is Artcell's rev
 
 ### 🎵 Tracklist (One-Tap Download)
 
-- [**01 Onnoshomoy**](https://media.githubusercontent.com/media/GhostDog45/Artcell/master/Onno%20Shomoy/01-01%20Onnoshomoy.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Artcell/master/Onno%20Shomoy/01-01%20Onnoshomoy.flac?download=true)
-- [**02 Bhul Jonmo**](https://media.githubusercontent.com/media/GhostDog45/Artcell/master/Onno%20Shomoy/01-02%20Bhul%20Jonmo.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Artcell/master/Onno%20Shomoy/01-02%20Bhul%20Jonmo.flac?download=true)
-- [**03 Poth Chola**](https://media.githubusercontent.com/media/GhostDog45/Artcell/master/Onno%20Shomoy/01-03%20Poth%20Chola.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Artcell/master/Onno%20Shomoy/01-03%20Poth%20Chola.flac?download=true)
-- [**04 Rupok (Ekti Gan)**](https://media.githubusercontent.com/media/GhostDog45/Artcell/master/Onno%20Shomoy/01-04%20Rupok%20%28Ekti%20Gan%29.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Artcell/master/Onno%20Shomoy/01-04%20Rupok%20%28Ekti%20Gan%29.flac?download=true)
-- [**05 Mukhosh**](https://media.githubusercontent.com/media/GhostDog45/Artcell/master/Onno%20Shomoy/01-05%20Mukhosh.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Artcell/master/Onno%20Shomoy/01-05%20Mukhosh.flac?download=true)
-- [**06 Rahur Grash**](https://media.githubusercontent.com/media/GhostDog45/Artcell/master/Onno%20Shomoy/01-06%20Rahur%20Grash.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Artcell/master/Onno%20Shomoy/01-06%20Rahur%20Grash.flac?download=true)
-- [**07 Itihash (Shomoy-Odrishto)**](https://media.githubusercontent.com/media/GhostDog45/Artcell/master/Onno%20Shomoy/01-07%20Itihash%20%28Shomoy-Odrishto%29.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Artcell/master/Onno%20Shomoy/01-07%20Itihash%20%28Shomoy-Odrishto%29.flac?download=true)
-- [**08 Kritrim Manush**](https://media.githubusercontent.com/media/GhostDog45/Artcell/master/Onno%20Shomoy/01-08%20Kritrim%20Manush.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Artcell/master/Onno%20Shomoy/01-08%20Kritrim%20Manush.flac?download=true)
-- [**09 Obosh Onuvutir Deyal**](https://media.githubusercontent.com/media/GhostDog45/Artcell/master/Onno%20Shomoy/01-09%20Obosh%20Onuvutir%20Deyal.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Artcell/master/Onno%20Shomoy/01-09%20Obosh%20Onuvutir%20Deyal.flac?download=true)
-- [**10 Olosh Shomoyer Pare**](https://media.githubusercontent.com/media/GhostDog45/Artcell/master/Onno%20Shomoy/01-10%20Olosh%20Shomoyer%20Pare.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Artcell/master/Onno%20Shomoy/01-10%20Olosh%20Shomoyer%20Pare.flac?download=true)
+- [**01 Onnoshomoy**](https://media.githubusercontent.com/media/BD-Band-Archive/Artcell/master/Onno%20Shomoy/01-01%20Onnoshomoy.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Artcell/master/Onno%20Shomoy/01-01%20Onnoshomoy.flac?download=true)
+- [**02 Bhul Jonmo**](https://media.githubusercontent.com/media/BD-Band-Archive/Artcell/master/Onno%20Shomoy/01-02%20Bhul%20Jonmo.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Artcell/master/Onno%20Shomoy/01-02%20Bhul%20Jonmo.flac?download=true)
+- [**03 Poth Chola**](https://media.githubusercontent.com/media/BD-Band-Archive/Artcell/master/Onno%20Shomoy/01-03%20Poth%20Chola.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Artcell/master/Onno%20Shomoy/01-03%20Poth%20Chola.flac?download=true)
+- [**04 Rupok (Ekti Gan)**](https://media.githubusercontent.com/media/BD-Band-Archive/Artcell/master/Onno%20Shomoy/01-04%20Rupok%20%28Ekti%20Gan%29.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Artcell/master/Onno%20Shomoy/01-04%20Rupok%20%28Ekti%20Gan%29.flac?download=true)
+- [**05 Mukhosh**](https://media.githubusercontent.com/media/BD-Band-Archive/Artcell/master/Onno%20Shomoy/01-05%20Mukhosh.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Artcell/master/Onno%20Shomoy/01-05%20Mukhosh.flac?download=true)
+- [**06 Rahur Grash**](https://media.githubusercontent.com/media/BD-Band-Archive/Artcell/master/Onno%20Shomoy/01-06%20Rahur%20Grash.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Artcell/master/Onno%20Shomoy/01-06%20Rahur%20Grash.flac?download=true)
+- [**07 Itihash (Shomoy-Odrishto)**](https://media.githubusercontent.com/media/BD-Band-Archive/Artcell/master/Onno%20Shomoy/01-07%20Itihash%20%28Shomoy-Odrishto%29.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Artcell/master/Onno%20Shomoy/01-07%20Itihash%20%28Shomoy-Odrishto%29.flac?download=true)
+- [**08 Kritrim Manush**](https://media.githubusercontent.com/media/BD-Band-Archive/Artcell/master/Onno%20Shomoy/01-08%20Kritrim%20Manush.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Artcell/master/Onno%20Shomoy/01-08%20Kritrim%20Manush.flac?download=true)
+- [**09 Obosh Onuvutir Deyal**](https://media.githubusercontent.com/media/BD-Band-Archive/Artcell/master/Onno%20Shomoy/01-09%20Obosh%20Onuvutir%20Deyal.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Artcell/master/Onno%20Shomoy/01-09%20Obosh%20Onuvutir%20Deyal.flac?download=true)
+- [**10 Olosh Shomoyer Pare**](https://media.githubusercontent.com/media/BD-Band-Archive/Artcell/master/Onno%20Shomoy/01-10%20Olosh%20Shomoyer%20Pare.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Artcell/master/Onno%20Shomoy/01-10%20Olosh%20Shomoyer%20Pare.flac?download=true)
 
 ### 🖼️ Album Artwork
 
@@ -92,16 +92,16 @@ Released in April 2006, *Oniket Prantor* ("No Man's Land") is widely regarded as
 
 ### 🎵 Tracklist (One-Tap Download)
 
-- [**01 Leen**](https://media.githubusercontent.com/media/GhostDog45/Artcell/master/Oniket%20Prantor/01-01%20Leen.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Artcell/master/Oniket%20Prantor/01-01%20Leen.flac?download=true)
-- [**02 Smriti Sharok**](https://media.githubusercontent.com/media/GhostDog45/Artcell/master/Oniket%20Prantor/01-02%20Smriti%20Sharok.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Artcell/master/Oniket%20Prantor/01-02%20Smriti%20Sharok.flac?download=true)
-- [**03 Dhushor Shomoy**](https://media.githubusercontent.com/media/GhostDog45/Artcell/master/Oniket%20Prantor/01-03%20Dhushor%20Shomoy.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Artcell/master/Oniket%20Prantor/01-03%20Dhushor%20Shomoy.flac?download=true)
-- [**04 Pathor Bagan**](https://media.githubusercontent.com/media/GhostDog45/Artcell/master/Oniket%20Prantor/01-04%20Pathor%20Bagan.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Artcell/master/Oniket%20Prantor/01-04%20Pathor%20Bagan.flac?download=true)
-- [**05 Shohid Shoroni**](https://media.githubusercontent.com/media/GhostDog45/Artcell/master/Oniket%20Prantor/01-05%20Shohid%20Shoroni.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Artcell/master/Oniket%20Prantor/01-05%20Shohid%20Shoroni.flac?download=true)
-- [**06 Chayar Ninad**](https://media.githubusercontent.com/media/GhostDog45/Artcell/master/Oniket%20Prantor/01-06%20Chayar%20Ninad.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Artcell/master/Oniket%20Prantor/01-06%20Chayar%20Ninad.flac?download=true)
-- [**07 Ghune Khawa Rodh**](https://media.githubusercontent.com/media/GhostDog45/Artcell/master/Oniket%20Prantor/01-07%20Ghune%20Khawa%20Rodh.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Artcell/master/Oniket%20Prantor/01-07%20Ghune%20Khawa%20Rodh.flac?download=true)
-- [**08 Tomake**](https://media.githubusercontent.com/media/GhostDog45/Artcell/master/Oniket%20Prantor/01-08%20Tomake.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Artcell/master/Oniket%20Prantor/01-08%20Tomake.flac?download=true)
-- [**09 Gontobbohin**](https://media.githubusercontent.com/media/GhostDog45/Artcell/master/Oniket%20Prantor/01-09%20Gontobbohin.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Artcell/master/Oniket%20Prantor/01-09%20Gontobbohin.flac?download=true)
-- [**10 Oniket Prantor**](https://media.githubusercontent.com/media/GhostDog45/Artcell/master/Oniket%20Prantor/01-10%20Oniket%20Prantor.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Artcell/master/Oniket%20Prantor/01-10%20Oniket%20Prantor.flac?download=true)
+- [**01 Leen**](https://media.githubusercontent.com/media/BD-Band-Archive/Artcell/master/Oniket%20Prantor/01-01%20Leen.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Artcell/master/Oniket%20Prantor/01-01%20Leen.flac?download=true)
+- [**02 Smriti Sharok**](https://media.githubusercontent.com/media/BD-Band-Archive/Artcell/master/Oniket%20Prantor/01-02%20Smriti%20Sharok.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Artcell/master/Oniket%20Prantor/01-02%20Smriti%20Sharok.flac?download=true)
+- [**03 Dhushor Shomoy**](https://media.githubusercontent.com/media/BD-Band-Archive/Artcell/master/Oniket%20Prantor/01-03%20Dhushor%20Shomoy.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Artcell/master/Oniket%20Prantor/01-03%20Dhushor%20Shomoy.flac?download=true)
+- [**04 Pathor Bagan**](https://media.githubusercontent.com/media/BD-Band-Archive/Artcell/master/Oniket%20Prantor/01-04%20Pathor%20Bagan.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Artcell/master/Oniket%20Prantor/01-04%20Pathor%20Bagan.flac?download=true)
+- [**05 Shohid Shoroni**](https://media.githubusercontent.com/media/BD-Band-Archive/Artcell/master/Oniket%20Prantor/01-05%20Shohid%20Shoroni.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Artcell/master/Oniket%20Prantor/01-05%20Shohid%20Shoroni.flac?download=true)
+- [**06 Chayar Ninad**](https://media.githubusercontent.com/media/BD-Band-Archive/Artcell/master/Oniket%20Prantor/01-06%20Chayar%20Ninad.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Artcell/master/Oniket%20Prantor/01-06%20Chayar%20Ninad.flac?download=true)
+- [**07 Ghune Khawa Rodh**](https://media.githubusercontent.com/media/BD-Band-Archive/Artcell/master/Oniket%20Prantor/01-07%20Ghune%20Khawa%20Rodh.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Artcell/master/Oniket%20Prantor/01-07%20Ghune%20Khawa%20Rodh.flac?download=true)
+- [**08 Tomake**](https://media.githubusercontent.com/media/BD-Band-Archive/Artcell/master/Oniket%20Prantor/01-08%20Tomake.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Artcell/master/Oniket%20Prantor/01-08%20Tomake.flac?download=true)
+- [**09 Gontobbohin**](https://media.githubusercontent.com/media/BD-Band-Archive/Artcell/master/Oniket%20Prantor/01-09%20Gontobbohin.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Artcell/master/Oniket%20Prantor/01-09%20Gontobbohin.flac?download=true)
+- [**10 Oniket Prantor**](https://media.githubusercontent.com/media/BD-Band-Archive/Artcell/master/Oniket%20Prantor/01-10%20Oniket%20Prantor.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Artcell/master/Oniket%20Prantor/01-10%20Oniket%20Prantor.flac?download=true)
 
 ### 🖼️ Album Artwork
 
@@ -133,12 +133,12 @@ Marking Artcell's monumental return 17 years after *Oniket Prantor*, *Otritio* (
 
 ### 🎵 Tracklist (One-Tap Download)
 
-- [**Artcell - Baksho Bondi**](https://media.githubusercontent.com/media/GhostDog45/Artcell/master/Otritio/Artcell%20-%20Baksho%20Bondi.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Artcell/master/Otritio/Artcell%20-%20Baksho%20Bondi.flac?download=true)
-- [**Artcell - Biprotip**](https://media.githubusercontent.com/media/GhostDog45/Artcell/master/Otritio/Artcell%20-%20Biprotip.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Artcell/master/Otritio/Artcell%20-%20Biprotip.flac?download=true)
-- [**Artcell - Oshomapto Shantona**](https://media.githubusercontent.com/media/GhostDog45/Artcell/master/Otritio/Artcell%20-%20Oshomapto%20Shantona.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Artcell/master/Otritio/Artcell%20-%20Oshomapto%20Shantona.flac?download=true)
-- [**Artcell - Otritio**](https://media.githubusercontent.com/media/GhostDog45/Artcell/master/Otritio/Artcell%20-%20Otritio.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Artcell/master/Otritio/Artcell%20-%20Otritio.flac?download=true)
-- [**Artcell - Protiti (Instrumental)**](https://media.githubusercontent.com/media/GhostDog45/Artcell/master/Otritio/Artcell%20-%20Protiti%20%28Instrumental%29.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Artcell/master/Otritio/Artcell%20-%20Protiti%20%28Instrumental%29.flac?download=true)
-- [**Artcell - Smritir Ayna**](https://media.githubusercontent.com/media/GhostDog45/Artcell/master/Otritio/Artcell%20-%20Smritir%20Ayna.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Artcell/master/Otritio/Artcell%20-%20Smritir%20Ayna.flac?download=true)
+- [**Artcell - Baksho Bondi**](https://media.githubusercontent.com/media/BD-Band-Archive/Artcell/master/Otritio/Artcell%20-%20Baksho%20Bondi.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Artcell/master/Otritio/Artcell%20-%20Baksho%20Bondi.flac?download=true)
+- [**Artcell - Biprotip**](https://media.githubusercontent.com/media/BD-Band-Archive/Artcell/master/Otritio/Artcell%20-%20Biprotip.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Artcell/master/Otritio/Artcell%20-%20Biprotip.flac?download=true)
+- [**Artcell - Oshomapto Shantona**](https://media.githubusercontent.com/media/BD-Band-Archive/Artcell/master/Otritio/Artcell%20-%20Oshomapto%20Shantona.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Artcell/master/Otritio/Artcell%20-%20Oshomapto%20Shantona.flac?download=true)
+- [**Artcell - Otritio**](https://media.githubusercontent.com/media/BD-Band-Archive/Artcell/master/Otritio/Artcell%20-%20Otritio.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Artcell/master/Otritio/Artcell%20-%20Otritio.flac?download=true)
+- [**Artcell - Protiti (Instrumental)**](https://media.githubusercontent.com/media/BD-Band-Archive/Artcell/master/Otritio/Artcell%20-%20Protiti%20%28Instrumental%29.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Artcell/master/Otritio/Artcell%20-%20Protiti%20%28Instrumental%29.flac?download=true)
+- [**Artcell - Smritir Ayna**](https://media.githubusercontent.com/media/BD-Band-Archive/Artcell/master/Otritio/Artcell%20-%20Smritir%20Ayna.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Artcell/master/Otritio/Artcell%20-%20Smritir%20Ayna.flac?download=true)
 
 ### 🖼️ Album Artwork
 
@@ -166,7 +166,7 @@ Marking Artcell's monumental return 17 years after *Oniket Prantor*, *Otritio* (
 
 ### 🎵 Tracklist (One-Tap Download)
 
-- [**Artcell - Biday Kibhabe Janai**](https://media.githubusercontent.com/media/GhostDog45/Artcell/master/Singles/Biday%20Kibhabe%20Janai.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Artcell/master/Singles/Biday%20Kibhabe%20Janai.flac?download=true)
+- [**Artcell - Biday Kibhabe Janai**](https://media.githubusercontent.com/media/BD-Band-Archive/Artcell/master/Singles/Biday%20Kibhabe%20Janai.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Artcell/master/Singles/Biday%20Kibhabe%20Janai.flac?download=true)
 
 ### 🖼️ Album Artwork
 
@@ -179,91 +179,91 @@ Marking Artcell's monumental return 17 years after *Oniket Prantor*, *Otritio* (
 ---
 
 <a id="5-charpotro-2001"></a><a id="12-charpotro-2001"></a>
-## 5. [Charpotro (2001)](https://github.com/GhostDog45/Mixed-Albums#charpotro-2001)
+## 5. [Charpotro (2001)](https://github.com/BD-Band-Archive/Mixed-Albums#charpotro-2001)
 ### 🎵 Tracklist (One-Tap Download)
 
-- [**Artcell - Odekha Shorgo**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Charpotro%20%282001%29/04.%20Odekha%20Shorgo.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Charpotro%20%282001%29/04.%20Odekha%20Shorgo.flac?download=true)
+- [**Artcell - Odekha Shorgo**](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Charpotro%20%282001%29/04.%20Odekha%20Shorgo.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Charpotro%20%282001%29/04.%20Odekha%20Shorgo.flac?download=true)
 
 ---
 
 <a id="6-onushilon-অনশলন-2002"></a><a id="5-onushilon-2002"></a><a id="4-onushilon-2002"></a>
-## 6. [Onushilon (অনুশীলন) (2002)](https://github.com/GhostDog45/Mixed-Albums#2-onushilon-2002)
+## 6. [Onushilon (অনুশীলন) (2002)](https://github.com/BD-Band-Archive/Mixed-Albums#2-onushilon-2002)
 ### 🎵 Tracklist (One-Tap Download)
 
-- [**Artcell - Dukkho Bilash (দুঃখ বিলাস)**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Onushilon%20%282002%29/04%20-%20%E0%A6%A6%E0%A7%81%E0%A6%83%E0%A6%96%20%E0%A6%AC%E0%A6%BF%E0%A6%B2%E0%A6%BE%E0%A6%B8.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Onushilon%20%282002%29/04%20-%20%E0%A6%A6%E0%A7%81%E0%A6%83%E0%A6%96%20%E0%A6%AC%E0%A6%BF%E0%A6%B2%E0%A6%BE%E0%A6%B8.flac?download=true)
-- [**Artcell - Opshori (অপসরী)**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Onushilon%20%282002%29/10%20-%20%E0%A6%85%E0%A6%AA%E0%A6%B8%E0%A6%B0%E0%A7%80.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Onushilon%20%282002%29/10%20-%20%E0%A6%85%E0%A6%AA%E0%A6%B8%E0%A6%B0%E0%A7%80.flac?download=true)
+- [**Artcell - Dukkho Bilash (দুঃখ বিলাস)**](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Onushilon%20%282002%29/04%20-%20%E0%A6%A6%E0%A7%81%E0%A6%83%E0%A6%96%20%E0%A6%AC%E0%A6%BF%E0%A6%B2%E0%A6%BE%E0%A6%B8.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Onushilon%20%282002%29/04%20-%20%E0%A6%A6%E0%A7%81%E0%A6%83%E0%A6%96%20%E0%A6%AC%E0%A6%BF%E0%A6%B2%E0%A6%BE%E0%A6%B8.flac?download=true)
+- [**Artcell - Opshori (অপসরী)**](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Onushilon%20%282002%29/10%20-%20%E0%A6%85%E0%A6%AA%E0%A6%B8%E0%A6%B0%E0%A7%80.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Onushilon%20%282002%29/10%20-%20%E0%A6%85%E0%A6%AA%E0%A6%B8%E0%A6%B0%E0%A7%80.flac?download=true)
 
 ---
 
 <a id="7-projonmo-2002"></a><a id="14-projonmo-2002"></a>
-## 7. [Projonmo (2002)](https://github.com/GhostDog45/Mixed-Albums#projonmo-2002)
+## 7. [Projonmo (2002)](https://github.com/BD-Band-Archive/Mixed-Albums#projonmo-2002)
 ### 🎵 Tracklist (One-Tap Download)
 
-- [**Artcell - Shopner Chorus/Artcell**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Projonmo%20%282002%29/04%20ArtCell%20-%20Shopner%20Chorus-Artcell.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Projonmo%20%282002%29/04%20ArtCell%20-%20Shopner%20Chorus-Artcell.flac?download=true)
+- [**Artcell - Shopner Chorus/Artcell**](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Projonmo%20%282002%29/04%20ArtCell%20-%20Shopner%20Chorus-Artcell.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Projonmo%20%282002%29/04%20ArtCell%20-%20Shopner%20Chorus-Artcell.flac?download=true)
 
 ---
 
 <a id="8-agontuk-1-আগনতক-১-2003"></a><a id="6-agontuk-1-2003"></a><a id="5-agontuk-1-2003"></a>
-## 8. [Agontuk 1 (আগন্তুক ১) (2003)](https://github.com/GhostDog45/Mixed-Albums#4-agontuk-1-2003)
+## 8. [Agontuk 1 (আগন্তুক ১) (2003)](https://github.com/BD-Band-Archive/Mixed-Albums#4-agontuk-1-2003)
 ### 🎵 Tracklist (One-Tap Download)
 
-- [**Artcell - Ostitter Dike Pododdhonir Shommohon**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Agontuk%201%20%282003%29/11%20Ostitter%20Dike%20Pododdhonir%20Shommohon.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Agontuk%201%20%282003%29/11%20Ostitter%20Dike%20Pododdhonir%20Shommohon.flac?download=true)
+- [**Artcell - Ostitter Dike Pododdhonir Shommohon**](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Agontuk%201%20%282003%29/11%20Ostitter%20Dike%20Pododdhonir%20Shommohon.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Agontuk%201%20%282003%29/11%20Ostitter%20Dike%20Pododdhonir%20Shommohon.flac?download=true)
 
 ---
 
 <a id="9-agontuk-2-আগনতক-২-2004"></a><a id="7-agontuk-2-2004"></a><a id="6-agontuk-2-2004"></a>
-## 9. [Agontuk 2 (আগন্তুক ২) (2004)](https://github.com/GhostDog45/Mixed-Albums#5-agontuk-2-2004)
+## 9. [Agontuk 2 (আগন্তুক ২) (2004)](https://github.com/BD-Band-Archive/Mixed-Albums#5-agontuk-2-2004)
 ### 🎵 Tracklist (One-Tap Download)
 
-- [**Artcell - Chile Kothar Shepai**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Agontuk%202%20%282004%29/02%20-%20Artcell%20-%20Chile%20Kothar%20Shepai.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Agontuk%202%20%282004%29/02%20-%20Artcell%20-%20Chile%20Kothar%20Shepai.flac?download=true)
+- [**Artcell - Chile Kothar Shepai**](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Agontuk%202%20%282004%29/02%20-%20Artcell%20-%20Chile%20Kothar%20Shepai.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Agontuk%202%20%282004%29/02%20-%20Artcell%20-%20Chile%20Kothar%20Shepai.flac?download=true)
 
 ---
 
 <a id="10-din-bodol-দন-বদল-2004"></a><a id="8-din-bodol-2004"></a><a id="7-din-bodol-2004"></a>
-## 10. [Din Bodol (দিন বদল) (2004)](https://github.com/GhostDog45/Mixed-Albums#6-din-bodol-2004)
+## 10. [Din Bodol (দিন বদল) (2004)](https://github.com/BD-Band-Archive/Mixed-Albums#6-din-bodol-2004)
 ### 🎵 Tracklist (One-Tap Download)
 
-- [**Artcell, Black & Cryptic Fate - Ashirbad (Abc)**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Din%20Bodol%20%282004%29/01.%20Ashirbad%20%28Abc%29.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Din%20Bodol%20%282004%29/01.%20Ashirbad%20%28Abc%29.flac?download=true)
+- [**Artcell, Black & Cryptic Fate - Ashirbad (Abc)**](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Din%20Bodol%20%282004%29/01.%20Ashirbad%20%28Abc%29.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Din%20Bodol%20%282004%29/01.%20Ashirbad%20%28Abc%29.flac?download=true)
 
 ---
 
 <a id="11-lokayot-2004"></a><a id="13-lokayot-2004"></a>
-## 11. [Lokayot (2004)](https://github.com/GhostDog45/Mixed-Albums#lokayot-2004)
+## 11. [Lokayot (2004)](https://github.com/BD-Band-Archive/Mixed-Albums#lokayot-2004)
 ### 🎵 Tracklist (One-Tap Download)
 
-- [**Artcell - Chera Akash**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Lokayot%20%282004%29/03.%20Chera%20Akash.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Lokayot%20%282004%29/03.%20Chera%20Akash.flac?download=true)
+- [**Artcell - Chera Akash**](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Lokayot%20%282004%29/03.%20Chera%20Akash.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Lokayot%20%282004%29/03.%20Chera%20Akash.flac?download=true)
 
 ---
 
 <a id="12-agontuk-3-আগনতক-৩-2005"></a><a id="9-agontuk-3-2005"></a><a id="8-agontuk-3-2005"></a>
-## 12. [Agontuk 3 (আগন্তুক ৩) (2005)](https://github.com/GhostDog45/Mixed-Albums#7-agontuk-3-2005)
+## 12. [Agontuk 3 (আগন্তুক ৩) (2005)](https://github.com/BD-Band-Archive/Mixed-Albums#7-agontuk-3-2005)
 ### 🎵 Tracklist (One-Tap Download)
 
-- [**Artcell - Bangladesh...Sriti O Amra**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Agontuk%203%20%282005%29/02%20Bangladesh...Sriti%20O%20Amra.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Agontuk%203%20%282005%29/02%20Bangladesh...Sriti%20O%20Amra.flac?download=true)
+- [**Artcell - Bangladesh...Sriti O Amra**](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Agontuk%203%20%282005%29/02%20Bangladesh...Sriti%20O%20Amra.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Agontuk%203%20%282005%29/02%20Bangladesh...Sriti%20O%20Amra.flac?download=true)
 
 ---
 
 <a id="13-live-now-লইভ-নও-2007"></a><a id="10-live-now-2007"></a><a id="9-live-now-2007"></a>
-## 13. [Live Now (লাইভ নাও) (2007)](https://github.com/GhostDog45/Mixed-Albums#11-live-now-2007)
+## 13. [Live Now (লাইভ নাও) (2007)](https://github.com/BD-Band-Archive/Mixed-Albums#11-live-now-2007)
 ### 🎵 Tracklist (One-Tap Download)
 
-- [**Artcell - Ei Bidaye**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Live%20Now%20%282007%29/01%20Ei%20Bidaye.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Live%20Now%20%282007%29/01%20Ei%20Bidaye.flac?download=true)
+- [**Artcell - Ei Bidaye**](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Live%20Now%20%282007%29/01%20Ei%20Bidaye.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Live%20Now%20%282007%29/01%20Ei%20Bidaye.flac?download=true)
 
 ---
 
 <a id="14-rock-303-2009"></a><a id="11-rock-303-2009"></a>
-## 14. [Rock 303 (2009)](https://github.com/GhostDog45/Mixed-Albums#rock-303-2009)
+## 14. [Rock 303 (2009)](https://github.com/BD-Band-Archive/Mixed-Albums#rock-303-2009)
 ### 🎵 Tracklist (One-Tap Download)
 
-- [**Artcell - Kandari Hushiar**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Rock%20303%20%282009%29/02.%20Kandari%20Hushiar%20-%20.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Rock%20303%20%282009%29/02.%20Kandari%20Hushiar%20-%20.flac?download=true)
+- [**Artcell - Kandari Hushiar**](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Rock%20303%20%282009%29/02.%20Kandari%20Hushiar%20-%20.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Rock%20303%20%282009%29/02.%20Kandari%20Hushiar%20-%20.flac?download=true)
 
 ---
 
 <a id="15-riotous-14-2015"></a>
-## 15. [Riotous 14 (2015)](https://github.com/GhostDog45/Mixed-Albums#riotous-14-2015)
+## 15. [Riotous 14 (2015)](https://github.com/BD-Band-Archive/Mixed-Albums#riotous-14-2015)
 ### 🎵 Tracklist (One-Tap Download)
 
-- [**Artcell - Karar Oi Louho Kopat**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Riotous%2014%20%282015%29/01.%20Karar%20Oi%20Louho%20Kopat.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Riotous%2014%20%282015%29/01.%20Karar%20Oi%20Louho%20Kopat.flac?download=true)
+- [**Artcell - Karar Oi Louho Kopat**](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Riotous%2014%20%282015%29/01.%20Karar%20Oi%20Louho%20Kopat.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Riotous%2014%20%282015%29/01.%20Karar%20Oi%20Louho%20Kopat.flac?download=true)
 
 ---
 
@@ -273,7 +273,7 @@ All audio tracks in this repository are managed via **Git LFS** (Large File Stor
 - **To clone the complete discography locally with all FLAC files:**
   ```bash
   git lfs install
-  git clone https://github.com/GhostDog45/Artcell.git
+  git clone https://github.com/BD-Band-Archive/Artcell.git
   ```
 
 ---
