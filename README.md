@@ -262,7 +262,7 @@ Marking Artcell's monumental return 17 years after *Oniket Prantor*, *Otritio* (
 
 ### 🎵 Tracklist (One-Tap Download)
 
-- [**ArtCell - Shopner Chorus/Artcell**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Projonmo%20%282002%29/04%20ArtCell%20-%20Shopner%20Chorus-Artcell.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Projonmo%20%282002%29/04%20ArtCell%20-%20Shopner%20Chorus-Artcell.flac?download=true)
+- [**Artcell - Shopner Chorus/Artcell**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Projonmo%20%282002%29/04%20ArtCell%20-%20Shopner%20Chorus-Artcell.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Projonmo%20%282002%29/04%20ArtCell%20-%20Shopner%20Chorus-Artcell.flac?download=true)
 
 ---
 
