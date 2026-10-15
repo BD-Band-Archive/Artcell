@@ -239,6 +239,42 @@ Marking Artcell's monumental return 17 years after *Oniket Prantor*, *Otritio* (
 
 ---
 
+<a id="12-charpotro-2001"></a>
+## 12. [Charpotro (2001)](https://github.com/GhostDog45/Mixed-Albums/tree/master/Charpotro%20%282001%29)
+
+### 🎵 Tracklist (One-Tap Download)
+
+- [**Artcell - Odekha Shorgo**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Charpotro%20%282001%29/04.%20Odekha%20Shorgo.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Charpotro%20%282001%29/04.%20Odekha%20Shorgo.flac?download=true)
+
+---
+
+<a id="13-lokayot-2004"></a>
+## 13. [Lokayot (2004)](https://github.com/GhostDog45/Mixed-Albums/tree/master/Lokayot%20%282004%29)
+
+### 🎵 Tracklist (One-Tap Download)
+
+- [**Artcell - Chera Akash**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Lokayot%20%282004%29/03.%20Chera%20Akash.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Lokayot%20%282004%29/03.%20Chera%20Akash.flac?download=true)
+
+---
+
+<a id="14-projonmo-2002"></a>
+## 14. [Projonmo (2002)](https://github.com/GhostDog45/Mixed-Albums/tree/master/Projonmo%20%282002%29)
+
+### 🎵 Tracklist (One-Tap Download)
+
+- [**ArtCell - Shopner Chorus/Artcell**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Projonmo%20%282002%29/04%20ArtCell%20-%20Shopner%20Chorus-Artcell.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Projonmo%20%282002%29/04%20ArtCell%20-%20Shopner%20Chorus-Artcell.flac?download=true)
+
+---
+
+<a id="15-riotous-14-2015"></a>
+## 15. [Riotous 14 (2015)](https://github.com/GhostDog45/Mixed-Albums/tree/master/Riotous%2014%20%282015%29)
+
+### 🎵 Tracklist (One-Tap Download)
+
+- [**Artcell - Karar Oi Louho Kopat**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Riotous%2014%20%282015%29/01.%20Karar%20Oi%20Louho%20Kopat.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Riotous%2014%20%282015%29/01.%20Karar%20Oi%20Louho%20Kopat.flac?download=true)
+
+---
+
 ### 💾 Git LFS & Downloading Audio
 All audio tracks in this repository are managed via **Git LFS** (Large File Storage).
 - **One-Tap Direct Download:** Click either the track title or the green `Download FLAC` button next to any song to instantly save the lossless FLAC file to your device.
