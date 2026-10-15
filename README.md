@@ -20,17 +20,18 @@
 4. [Singles & Standalone Releases](#4-singles)
 
 ### 💿 Mixed Albums
-5. [Onushilon (অনুশীলন) (2002)](#5-onushilon-2002)
-6. [Agontuk 1 (আগন্তুক ১) (2003)](#6-agontuk-1-2003)
-7. [Agontuk 2 (আগন্তুক ২) (2004)](#7-agontuk-2-2004)
-8. [Din Bodol (দিন বদল) (2004)](#8-din-bodol-2004)
-9. [Agontuk 3 (আগন্তুক ৩) (2005)](#9-agontuk-3-2005)
-10. [Live Now (লাইভ নাও) (2007)](#10-live-now-2007)
-11. [Rock 303 (2009)](#11-rock-303-2009)
-12. [Charpotro (2001)](#12-charpotro-2001)
-13. [Lokayot (2004)](#13-lokayot-2004)
-14. [Projonmo (2002)](#14-projonmo-2002)
+5. [Charpotro (2001)](#5-charpotro-2001)
+6. [Onushilon (অনুশীলন) (2002)](#6-onushilon-অনশলন-2002)
+7. [Projonmo (2002)](#7-projonmo-2002)
+8. [Agontuk 1 (আগন্তুক ১) (2003)](#8-agontuk-1-আগনতক-১-2003)
+9. [Agontuk 2 (আগন্তুক ২) (2004)](#9-agontuk-2-আগনতক-২-2004)
+10. [Din Bodol (দিন বদল) (2004)](#10-din-bodol-দন-বদল-2004)
+11. [Lokayot (2004)](#11-lokayot-2004)
+12. [Agontuk 3 (আগন্তুক ৩) (2005)](#12-agontuk-3-আগনতক-৩-2005)
+13. [Live Now (লাইভ নাও) (2007)](#13-live-now-লইভ-নও-2007)
+14. [Rock 303 (2009)](#14-rock-303-2009)
 15. [Riotous 14 (2015)](#15-riotous-14-2015)
+
 
 
 ---
@@ -175,9 +176,18 @@ Marking Artcell's monumental return 17 years after *Oniket Prantor*, *Otritio* (
 
 ---
 
-<a id="5-onushilon-2002"></a><a id="4-onushilon-2002"></a>
-## 5. [Onushilon (অনুশীলন) (2002)](https://github.com/GhostDog45/Mixed-Albums#2-onushilon-2002)
+---
 
+<a id="5-charpotro-2001"></a><a id="12-charpotro-2001"></a>
+## 5. [Charpotro (2001)](https://github.com/GhostDog45/Mixed-Albums#charpotro-2001)
+### 🎵 Tracklist (One-Tap Download)
+
+- [**Artcell - Odekha Shorgo**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Charpotro%20%282001%29/04.%20Odekha%20Shorgo.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Charpotro%20%282001%29/04.%20Odekha%20Shorgo.flac?download=true)
+
+---
+
+<a id="6-onushilon-অনশলন-2002"></a><a id="5-onushilon-2002"></a><a id="4-onushilon-2002"></a>
+## 6. [Onushilon (অনুশীলন) (2002)](https://github.com/GhostDog45/Mixed-Albums#2-onushilon-2002)
 ### 🎵 Tracklist (One-Tap Download)
 
 - [**Artcell - Dukkho Bilash (দুঃখ বিলাস)**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Onushilon%20%282002%29/04%20-%20%E0%A6%A6%E0%A7%81%E0%A6%83%E0%A6%96%20%E0%A6%AC%E0%A6%BF%E0%A6%B2%E0%A6%BE%E0%A6%B8.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Onushilon%20%282002%29/04%20-%20%E0%A6%A6%E0%A7%81%E0%A6%83%E0%A6%96%20%E0%A6%AC%E0%A6%BF%E0%A6%B2%E0%A6%BE%E0%A6%B8.flac?download=true)
@@ -185,90 +195,72 @@ Marking Artcell's monumental return 17 years after *Oniket Prantor*, *Otritio* (
 
 ---
 
-<a id="6-agontuk-1-2003"></a><a id="5-agontuk-1-2003"></a>
-## 6. [Agontuk 1 (আগন্তুক ১) (2003)](https://github.com/GhostDog45/Mixed-Albums#4-agontuk-1-2003)
-
-### 🎵 Tracklist (One-Tap Download)
-
-- [**Artcell - Ostitter Dike Pododdhonir Shommohon**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Agontuk%201%20%282003%29/11%20Ostitter%20Dike%20Pododdhonir%20Shommohon.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Agontuk%201%20%282003%29/11%20Ostitter%20Dike%20Pododdhonir%20Shommohon.flac?download=true)
-
----
-
-<a id="7-agontuk-2-2004"></a><a id="6-agontuk-2-2004"></a>
-## 7. [Agontuk 2 (আগন্তুক ২) (2004)](https://github.com/GhostDog45/Mixed-Albums#5-agontuk-2-2004)
-
-### 🎵 Tracklist (One-Tap Download)
-
-- [**Artcell - Chile Kothar Shepai**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Agontuk%202%20%282004%29/02%20-%20Artcell%20-%20Chile%20Kothar%20Shepai.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Agontuk%202%20%282004%29/02%20-%20Artcell%20-%20Chile%20Kothar%20Shepai.flac?download=true)
-
----
-
-<a id="8-din-bodol-2004"></a><a id="7-din-bodol-2004"></a>
-## 8. [Din Bodol (দিন বদল) (2004)](https://github.com/GhostDog45/Mixed-Albums#6-din-bodol-2004)
-
-### 🎵 Tracklist (One-Tap Download)
-
-- [**Artcell, Black & Cryptic Fate - Ashirbad (Abc)**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Din%20Bodol%20%282004%29/01.%20Ashirbad%20%28Abc%29.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Din%20Bodol%20%282004%29/01.%20Ashirbad%20%28Abc%29.flac?download=true)
-
----
-
-<a id="9-agontuk-3-2005"></a><a id="8-agontuk-3-2005"></a>
-## 9. [Agontuk 3 (আগন্তুক ৩) (2005)](https://github.com/GhostDog45/Mixed-Albums#7-agontuk-3-2005)
-
-### 🎵 Tracklist (One-Tap Download)
-
-- [**Artcell - Bangladesh...Sriti O Amra**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Agontuk%203%20%282005%29/02%20Bangladesh...Sriti%20O%20Amra.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Agontuk%203%20%282005%29/02%20Bangladesh...Sriti%20O%20Amra.flac?download=true)
-
----
-
-<a id="10-live-now-2007"></a><a id="9-live-now-2007"></a>
-## 10. [Live Now (লাইভ নাও) (2007)](https://github.com/GhostDog45/Mixed-Albums#11-live-now-2007)
-
-### 🎵 Tracklist (One-Tap Download)
-
-- [**Artcell - Ei Bidaye**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Live%20Now%20%282007%29/01%20Ei%20Bidaye.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Live%20Now%20%282007%29/01%20Ei%20Bidaye.flac?download=true)
-
----
-
-<a id="11-rock-303-2009"></a>
-## 11. [Rock 303 (2009)](https://github.com/GhostDog45/Mixed-Albums#rock-303-2009)
-
-### 🎵 Tracklist (One-Tap Download)
-
-- [**Artcell - Kandari Hushiar**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Rock%20303%20%282009%29/02.%20Kandari%20Hushiar%20-%20.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Rock%20303%20%282009%29/02.%20Kandari%20Hushiar%20-%20.flac?download=true)
-
----
-
-<a id="12-charpotro-2001"></a>
-## 12. [Charpotro (2001)](https://github.com/GhostDog45/Mixed-Albums#charpotro-2001)
-
-### 🎵 Tracklist (One-Tap Download)
-
-- [**Artcell - Odekha Shorgo**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Charpotro%20%282001%29/04.%20Odekha%20Shorgo.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Charpotro%20%282001%29/04.%20Odekha%20Shorgo.flac?download=true)
-
----
-
-<a id="13-lokayot-2004"></a>
-## 13. [Lokayot (2004)](https://github.com/GhostDog45/Mixed-Albums#lokayot-2004)
-
-### 🎵 Tracklist (One-Tap Download)
-
-- [**Artcell - Chera Akash**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Lokayot%20%282004%29/03.%20Chera%20Akash.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Lokayot%20%282004%29/03.%20Chera%20Akash.flac?download=true)
-
----
-
-<a id="14-projonmo-2002"></a>
-## 14. [Projonmo (2002)](https://github.com/GhostDog45/Mixed-Albums#projonmo-2002)
-
+<a id="7-projonmo-2002"></a><a id="14-projonmo-2002"></a>
+## 7. [Projonmo (2002)](https://github.com/GhostDog45/Mixed-Albums#projonmo-2002)
 ### 🎵 Tracklist (One-Tap Download)
 
 - [**Artcell - Shopner Chorus/Artcell**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Projonmo%20%282002%29/04%20ArtCell%20-%20Shopner%20Chorus-Artcell.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Projonmo%20%282002%29/04%20ArtCell%20-%20Shopner%20Chorus-Artcell.flac?download=true)
 
 ---
 
+<a id="8-agontuk-1-আগনতক-১-2003"></a><a id="6-agontuk-1-2003"></a><a id="5-agontuk-1-2003"></a>
+## 8. [Agontuk 1 (আগন্তুক ১) (2003)](https://github.com/GhostDog45/Mixed-Albums#4-agontuk-1-2003)
+### 🎵 Tracklist (One-Tap Download)
+
+- [**Artcell - Ostitter Dike Pododdhonir Shommohon**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Agontuk%201%20%282003%29/11%20Ostitter%20Dike%20Pododdhonir%20Shommohon.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Agontuk%201%20%282003%29/11%20Ostitter%20Dike%20Pododdhonir%20Shommohon.flac?download=true)
+
+---
+
+<a id="9-agontuk-2-আগনতক-২-2004"></a><a id="7-agontuk-2-2004"></a><a id="6-agontuk-2-2004"></a>
+## 9. [Agontuk 2 (আগন্তুক ২) (2004)](https://github.com/GhostDog45/Mixed-Albums#5-agontuk-2-2004)
+### 🎵 Tracklist (One-Tap Download)
+
+- [**Artcell - Chile Kothar Shepai**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Agontuk%202%20%282004%29/02%20-%20Artcell%20-%20Chile%20Kothar%20Shepai.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Agontuk%202%20%282004%29/02%20-%20Artcell%20-%20Chile%20Kothar%20Shepai.flac?download=true)
+
+---
+
+<a id="10-din-bodol-দন-বদল-2004"></a><a id="8-din-bodol-2004"></a><a id="7-din-bodol-2004"></a>
+## 10. [Din Bodol (দিন বদল) (2004)](https://github.com/GhostDog45/Mixed-Albums#6-din-bodol-2004)
+### 🎵 Tracklist (One-Tap Download)
+
+- [**Artcell, Black & Cryptic Fate - Ashirbad (Abc)**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Din%20Bodol%20%282004%29/01.%20Ashirbad%20%28Abc%29.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Din%20Bodol%20%282004%29/01.%20Ashirbad%20%28Abc%29.flac?download=true)
+
+---
+
+<a id="11-lokayot-2004"></a><a id="13-lokayot-2004"></a>
+## 11. [Lokayot (2004)](https://github.com/GhostDog45/Mixed-Albums#lokayot-2004)
+### 🎵 Tracklist (One-Tap Download)
+
+- [**Artcell - Chera Akash**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Lokayot%20%282004%29/03.%20Chera%20Akash.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Lokayot%20%282004%29/03.%20Chera%20Akash.flac?download=true)
+
+---
+
+<a id="12-agontuk-3-আগনতক-৩-2005"></a><a id="9-agontuk-3-2005"></a><a id="8-agontuk-3-2005"></a>
+## 12. [Agontuk 3 (আগন্তুক ৩) (2005)](https://github.com/GhostDog45/Mixed-Albums#7-agontuk-3-2005)
+### 🎵 Tracklist (One-Tap Download)
+
+- [**Artcell - Bangladesh...Sriti O Amra**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Agontuk%203%20%282005%29/02%20Bangladesh...Sriti%20O%20Amra.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Agontuk%203%20%282005%29/02%20Bangladesh...Sriti%20O%20Amra.flac?download=true)
+
+---
+
+<a id="13-live-now-লইভ-নও-2007"></a><a id="10-live-now-2007"></a><a id="9-live-now-2007"></a>
+## 13. [Live Now (লাইভ নাও) (2007)](https://github.com/GhostDog45/Mixed-Albums#11-live-now-2007)
+### 🎵 Tracklist (One-Tap Download)
+
+- [**Artcell - Ei Bidaye**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Live%20Now%20%282007%29/01%20Ei%20Bidaye.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Live%20Now%20%282007%29/01%20Ei%20Bidaye.flac?download=true)
+
+---
+
+<a id="14-rock-303-2009"></a><a id="11-rock-303-2009"></a>
+## 14. [Rock 303 (2009)](https://github.com/GhostDog45/Mixed-Albums#rock-303-2009)
+### 🎵 Tracklist (One-Tap Download)
+
+- [**Artcell - Kandari Hushiar**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Rock%20303%20%282009%29/02.%20Kandari%20Hushiar%20-%20.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Rock%20303%20%282009%29/02.%20Kandari%20Hushiar%20-%20.flac?download=true)
+
+---
+
 <a id="15-riotous-14-2015"></a>
 ## 15. [Riotous 14 (2015)](https://github.com/GhostDog45/Mixed-Albums#riotous-14-2015)
-
 ### 🎵 Tracklist (One-Tap Download)
 
 - [**Artcell - Karar Oi Louho Kopat**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Riotous%2014%20%282015%29/01.%20Karar%20Oi%20Louho%20Kopat.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Riotous%2014%20%282015%29/01.%20Karar%20Oi%20Louho%20Kopat.flac?download=true)
