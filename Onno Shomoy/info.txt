@@ -1,0 +1,29 @@
+Album Name: Onno Shomoy
+Album Type: Band
+Release Year: 2002
+Genre: Rock
+Total Songs: 10
+Track List:
+01. Onnoshomoy
+02. Bhul Jonmo
+03. Poth Chola
+04. Rupok (Ekti Gan)
+05. Mukhosh
+06. Rahur Grash
+07. Itihash (Shomoy-Odrishto)
+08. Kritrim Manush
+09. Obosh Onuvutir Deyal
+10. Olosh Shomoyer Pare
+
+Media Info:
+Audio:
+Format                                   : FLAC
+Format/Info                              : Free Lossless Audio Codec
+Bit rate mode                            : Variable
+Bit rate                                 : 1 077 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 44.1 kHz
+Bit depth                                : 16 bits
+Compression mode                         : Lossless
+Writing library                          : libFLAC 1.2.1 (2007-09-17)
