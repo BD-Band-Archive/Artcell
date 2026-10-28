@@ -178,8 +178,11 @@ Marking Artcell's monumental return 17 years after *Oniket Prantor*, *Otritio* (
 <a id="4-singles"></a><a id="10-singles"></a>
 ## 4. Singles & Standalone Releases
 
+- **Band:** Artcell
+- **Audio Quality:** Lossless FLAC (16-bit / 44.1 kHz)
+
 <p align="center">
-  <img src="Singles/Album%20Cover/folder.jpg" width="300" alt="Artcell Singles Cover" />
+  <img src="Singles/Album%20Cover/Artcell%20-%20Singles%20%5BFront%5D.jpg" width="300" alt="Artcell Singles Cover" />
 </p>
 
 ### 🎵 Tracklist (One-Tap Download)
@@ -190,7 +193,7 @@ Marking Artcell's monumental return 17 years after *Oniket Prantor*, *Otritio* (
 
 | | |
 | :---: | :---: |
-| <img src="Singles/Album%20Cover/Artcell%20-%20Singles%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> | <img src="Singles/Album%20Cover/folder.jpg" width="300" alt="2. folder" /><br><sub><b>2. folder</b></sub> |
+| <img src="Singles/Album%20Cover/Artcell%20-%20Singles%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> | <img src="Singles/Album%20Cover/Artcell%20-%20Biday%20Kibhabe%20Janai.jpg" width="300" alt="2. Artcell - Biday Kibhabe Janai" /><br><sub><b>2. Artcell - Biday Kibhabe Janai</b></sub> |
 
 
 ### 💿 CD Ripper & Preservation Credit
