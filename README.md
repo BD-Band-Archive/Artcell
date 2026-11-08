@@ -73,7 +73,6 @@ Released in 2002 under G-Series, *Onno Shomoy* ("Another Time") is Artcell's rev
 | <img src="Onno%20Shomoy/Album%20Cover/Onno%20Shomoy%20%5BInlay%5D.jpg" width="300" alt="5. Tray Inlay Artwork" /><br><sub><b>5. Tray Inlay Artwork</b></sub> | <img src="Onno%20Shomoy/Album%20Cover/Onno%20Shomoy%20%5BCD%5D.jpg" width="300" alt="6. Compact Disc (CD)" /><br><sub><b>6. Compact Disc (CD)</b></sub> |
 | <img src="Onno%20Shomoy/Album%20Cover/Onno%20Shomoy%20%5BInlay-Back%5D.jpg" width="300" alt="7. Back Inset" /><br><sub><b>7. Back Inset</b></sub> | <img src="Onno%20Shomoy/Album%20Cover/Onno%20Shomoy%20%5BBack%5D.jpg" width="300" alt="8. Back Cover" /><br><sub><b>8. Back Cover</b></sub> |
 
-
 ### 💿 CD Ripper & Preservation Credit
 
 - **Preserved & Ripped by:** Bangla Flac Preservation Community
@@ -119,7 +118,6 @@ Released in April 2006, *Oniket Prantor* ("No Man's Land") is widely regarded as
 | <img src="Oniket%20Prantor/Album%20Cover/Oniket%20Prantor%20%5BBooklet-6%5D.jpg" width="300" alt="7. Booklet (Part 6)" /><br><sub><b>7. Booklet (Part 6)</b></sub> | <img src="Oniket%20Prantor/Album%20Cover/Oniket%20Prantor%20%5BBooklet-7%5D.jpg" width="300" alt="8. Booklet (Part 7)" /><br><sub><b>8. Booklet (Part 7)</b></sub> |
 | <img src="Oniket%20Prantor/Album%20Cover/Oniket%20Prantor%20%5BInset-Front%5D.jpg" width="300" alt="9. Inset (Front)" /><br><sub><b>9. Inset (Front)</b></sub> | <img src="Oniket%20Prantor/Album%20Cover/Oniket%20Prantor%20%5BInlay-1%5D.jpg" width="300" alt="10. Inlay (Part 1)" /><br><sub><b>10. Inlay (Part 1)</b></sub> |
 | <img src="Oniket%20Prantor/Album%20Cover/Oniket%20Prantor%20%5BCD%5D.jpg" width="300" alt="11. Compact Disc (CD)" /><br><sub><b>11. Compact Disc (CD)</b></sub> | <img src="Oniket%20Prantor/Album%20Cover/Oniket%20Prantor%20%5BBack%5D.jpg" width="300" alt="12. Back Cover" /><br><sub><b>12. Back Cover</b></sub> |
-
 
 ### 💿 CD Ripper & Preservation Credit
 
@@ -167,7 +165,6 @@ Marking Artcell's monumental return 17 years after *Oniket Prantor*, *Otritio* (
 | <img src="Otritio/Album%20Cover/Limited%20Edition%20Box%20-%205.jpg" width="300" alt="17. Limited Edition Box - 5" /><br><sub><b>17. Limited Edition Box - 5</b></sub> | <img src="Otritio/Album%20Cover/Limited%20Edition%20Box.jpg" width="300" alt="18. Limited Edition Box" /><br><sub><b>18. Limited Edition Box</b></sub> |
 | <img src="Otritio/Album%20Cover/Logo.jpg" width="300" alt="19. Logo" /><br><sub><b>19. Logo</b></sub> | <img src="Otritio/Album%20Cover/Sticker.jpg" width="300" alt="20. Sticker" /><br><sub><b>20. Sticker</b></sub> |
 
-
 ### 💿 CD Ripper & Preservation Credit
 
 - **Preserved & Ripped by:** Bangla Flac Preservation Community
@@ -194,7 +191,6 @@ Marking Artcell's monumental return 17 years after *Oniket Prantor*, *Otritio* (
 | | |
 | :---: | :---: |
 | <img src="Singles/Album%20Cover/Artcell%20-%20Singles%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> | <img src="Singles/Album%20Cover/Artcell%20-%20Biday%20Kibhabe%20Janai.jpg" width="300" alt="2. Artcell - Biday Kibhabe Janai" /><br><sub><b>2. Artcell - Biday Kibhabe Janai</b></sub> |
-
 
 ### 💿 CD Ripper & Preservation Credit
 
